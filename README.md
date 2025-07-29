@@ -14,7 +14,6 @@ This project demonstrates how to connect a Python client to the Atlassian MCP (M
 
 - **atlassians_tool_info.json:**  
   A catalog of all available Atlassian tools, including input and output schemas.  
-  _No need to focus on individual tools for setup—this file is used for tool discovery and validation._
 
 ---
 
